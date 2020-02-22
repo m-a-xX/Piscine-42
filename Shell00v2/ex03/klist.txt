@@ -1,0 +1,5 @@
+Credentials cache: API:2D465EFE-D820-45F2-BCC0-1889C2404FAD
+        Principal: mavileo@42.FR
+
+  Issued                Expires               Principal
+Aug 26 17:26:48 2019  Sep  2 17:26:48 2019  krbtgt/42.FR@42.FR
